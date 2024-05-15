@@ -359,6 +359,7 @@
 "Assets/Scripts/EnemyAI.cs"
 "Assets/Scripts/FOV.cs"
 "Assets/Scripts/FOV_editor.cs"
+"Assets/Scripts/Playercontrol.cs"
 -langversion:9.0
 /deterministic
 /optimize+
